@@ -1,10 +1,10 @@
 # Hướng dẫn chạy code — Chapter 2: Graph Embeddings
-### Sách: *Graph Neural Networks in Action* (Keita Broadwater, Namid Stillman — Manning, 2025)
-
 File hướng dẫn này chỉ áp dụng cho **Chapter 2 — Graph Embeddings** (mục 2.1 Node2Vec, 2.2 GNN Embeddings, 2.3 Semi-supervised Classification). Các chapter khác của sách không nằm trong phạm vi hướng dẫn này.
+### 📂 [Click vào đây để mở trực tiếp Chapter 2](https://github.com/dxhai17/GNN_AI_C-3/tree/master/chapter_2)
 
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dxhai17/GNN_AI_C-3/blob/master/chapter_2/archived_files/Chapter_2_3_GNN_Embeddings.ipynb)
 ---
-
+## Chapter 2.3: GNN Embeddings
 ## 1. Thông tin repo
 
 - **Repo gốc (chính thức của sách):** https://github.com/keitabroadwater/gnns_in_action
